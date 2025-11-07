@@ -65,5 +65,3 @@ I’m passionate about building **interpretable**, **trustworthy**, and **lifelo
 </div>
 
 ---
-
-
