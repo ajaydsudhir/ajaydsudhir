@@ -10,7 +10,6 @@
 # **👋 Hi, I'm Ajay D. Sudhir**
 ### **B.S. Computer Science @ UNC Charlotte**  
 
-
 </div>
 
 ---
