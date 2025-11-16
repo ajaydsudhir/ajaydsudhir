@@ -65,7 +65,7 @@ I’m passionate about building **interpretable**, **trustworthy**, and **lifelo
 [![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/usage)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/)
 
-#### **📊 <u>Data Analytics & Statistical Computing</u>**
+#### **📊 <u>Data Analysis & Statistics</u>**
 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
@@ -81,6 +81,7 @@ I’m passionate about building **interpretable**, **trustworthy**, and **lifelo
 
 [![OpenBCI](https://img.shields.io/badge/OpenBCI-005B96?style=for-the-badge&logoColor=white)](https://docs.openbci.com/)
 [![BrainFlow](https://img.shields.io/badge/BrainFlow-00AEEF?style=for-the-badge&logoColor=white)](https://brainflow.readthedocs.io/)
+[![Hydra](https://img.shields.io/badge/Hydra-0072C6?style=for-the-badge&logoColor=white)](https://hydra.cc/)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/learn)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/help/documentation/)
@@ -95,7 +96,7 @@ I’m passionate about building **interpretable**, **trustworthy**, and **lifelo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 
-#### **💼 <u>Development Environments and Productivity</u>**
+#### **💼 <u>IDEs and Productivity</u>**
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://docs.jupyter.org/en/latest/)
